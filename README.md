@@ -1,5 +1,3 @@
-# ptkrm
-
 ![Secret](https://patikermo.com/gif/secret.gif)
 
 > Secret Screen! This is the secret Secret Screen!
